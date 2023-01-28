@@ -6,7 +6,7 @@ Moreover, these functions are used to predict the type of tumor samples into one
 ## Key features
 * Data normalization
 * One-hot encoding
-* Artificial Neural Networks with early stopping
+* Artificial Neural Networks with early stopping during training
 * Ensemble models, with the possibility to include: 
     * Support Vector Machines
     * Decision Tree Classifiers
